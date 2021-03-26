@@ -118,8 +118,8 @@ I also have skills in project collaboration,
 project or organizational leadership,
 organization, and attention to detail.
 
-Sources:
-1.https://www.northeastern.edu/graduate/blog/computer-science-skills/
+Sources:</n>
+1. https://www.northeastern.edu/graduate/blog/computer-science-skills/
 
 ## Post-Graduate Plans
 
